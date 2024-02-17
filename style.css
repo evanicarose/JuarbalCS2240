@@ -241,11 +241,11 @@ body{
     .history-img4,
     .history-img5,
     .history-img6 {
-        order: 1; /* Display the image before the text */
-        margin-top: 10px; /* Adjust margin as needed */
-        max-width: 100%; /* Make sure the image doesn't exceed its container's width */
-        height: auto; /* Maintain aspect ratio */
-        width: 100%; /* Adjust the width as needed */
+        order: 1; 
+        margin-top: 10px; 
+        max-width: 100%; 
+        height: auto; 
+        width: 100%; 
     }
 
     .history-img img,
@@ -254,8 +254,8 @@ body{
     .history-img4 img,
     .history-img5 img,
     .history-img6 img {
-        max-width: 100%; /* Make sure the image doesn't exceed its container's width */
-        height: auto; /* Maintain aspect ratio */
+        max-width: 100%; 
+        height: auto; 
     }
 
     .history-text,
