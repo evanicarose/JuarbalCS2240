@@ -264,11 +264,11 @@ body{
     .history-text4,
     .history-text5,
     .history-text6 {
-        order: 2; /* Display the text after the image */
-        margin-bottom: 10px; /* Adjust margin as needed */
-        margin-left: 20px; /* Adjust margin as needed */
-        margin-right: 20px; /* Adjust margin as needed */
-        text-align: left; /* Align text to the left */
+        order: 2; 
+        margin-bottom: 10px; 
+        margin-left: 20px; 
+        margin-right: 20px; 
+        text-align: left; 
     }
 
     .history-img,
@@ -278,7 +278,7 @@ body{
     .history-img5,
     .history-img6 {
         margin-top: 20px;
-        margin-left: 0; /* Set left margin to 0 */
+        margin-left: 0; 
         margin-right: 0;
     }
 }
@@ -300,11 +300,11 @@ body{
     .history-img4,
     .history-img5,
     .history-img6 {
-        order: 1; /* Display the image before the text */
-        margin-top: 10px; /* Adjust margin as needed */
-        max-width: 100%; /* Make sure the image doesn't exceed its container's width */
-        height: auto; /* Maintain aspect ratio */
-        width: 100%; /* Adjust the width as needed */
+        order: 1; 
+        margin-top: 10px; 
+        max-width: 100%; 
+        height: auto; 
+        width: 100%; 
     }
 
     .history-img img,
@@ -313,8 +313,8 @@ body{
     .history-img4 img,
     .history-img5 img,
     .history-img6 img {
-        max-width: 100%; /* Make sure the image doesn't exceed its container's width */
-        height: auto; /* Maintain aspect ratio */
+        max-width: 100%; 
+        height: auto; 
     }
 
     .history-text,
@@ -323,11 +323,11 @@ body{
     .history-text4,
     .history-text5,
     .history-text6 {
-        order: 2; /* Display the text after the image */
-        margin-bottom: 10px; /* Adjust margin as needed */
-        margin-left: 20px; /* Adjust margin as needed */
-        margin-right: 20px; /* Adjust margin as needed */
-        text-align: left; /* Align text to the left */
+        order: 2; 
+        margin-bottom: 10px; 
+        margin-left: 20px; 
+        margin-right: 20px; 
+        text-align: left; 
     }
 
     .history-img,
@@ -337,7 +337,7 @@ body{
     .history-img5,
     .history-img6 {
         margin-top: 20px;
-        margin-left: 0; /* Set left margin to 0 */
+        margin-left: 0; 
         margin-right: 0;
     }
 }
@@ -360,11 +360,11 @@ body{
     .history-img4,
     .history-img5,
     .history-img6 {
-        order: 1; /* Display the image before the text */
-        margin-top: 10px; /* Adjust margin as needed */
-        max-width: 100%; /* Make sure the image doesn't exceed its container's width */
-        height: auto; /* Maintain aspect ratio */
-        width: 100%; /* Adjust the width as needed */
+        order: 1; 
+        margin-top: 10px;
+        max-width: 100%; 
+        height: auto; 
+        width: 100%; 
     }
 
     .history-img img,
@@ -373,8 +373,8 @@ body{
     .history-img4 img,
     .history-img5 img,
     .history-img6 img {
-        max-width: 100%; /* Make sure the image doesn't exceed its container's width */
-        height: auto; /* Maintain aspect ratio */
+        max-width: 100%;
+        height: auto; 
     }
 
     .history-text,
@@ -383,11 +383,11 @@ body{
     .history-text4,
     .history-text5,
     .history-text6 {
-        order: 2; /* Display the text after the image */
-        margin-bottom: 10px; /* Adjust margin as needed */
-        margin-left: 20px; /* Adjust margin as needed */
-        margin-right: 20px; /* Adjust margin as needed */
-        text-align: left; /* Align text to the left */
+        order: 2; 
+        margin-bottom: 10px; 
+        margin-left: 20px; 
+        margin-right: 20px; 
+        text-align: left; 
     }
 
     .history-img,
@@ -397,7 +397,7 @@ body{
     .history-img5,
     .history-img6 {
         margin-top: 20px;
-        margin-left: 0; /* Set left margin to 0 */
+        margin-left: 0; 
         margin-right: 0;
     }
 }
@@ -497,24 +497,24 @@ body{
     font-size: 0.938rem;
     margin: 0.5rem 0 1.1rem;
     text-align: left;
-    margin-bottom: 10px; /* Adjust margin as needed */
-    margin-left: 20px; /* Adjust margin as needed */
+    margin-bottom: 10px; 
+    margin-left: 20px; 
     margin-right: 20px;
     
 }
 
 .video {
-    width: 100%; /* Adjust the width as needed */
-    max-width: 1000px; /* Set a maximum width if desired */
-    margin: 0 auto; /* Center the video horizontally */
+    width: 100%; 
+    max-width: 1000px; 
+    margin: 0 auto; 
     margin-top: 50px;
 }
 
 .video video {
-    width: 100%; /* Make the video fill its container */
-    display: block; /* Ensure it behaves as a block element */
-    border-radius: 10px; /* Add rounded corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a shadow effect */
+    width: 100%; 
+    display: block; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
 }
 
 
